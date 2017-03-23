@@ -19,7 +19,7 @@ function display(){
     //display ball
     stroke(255);
     strokeWeight(4);
-    fill(50,250,50);
+    fill(200,0,50);
     ellipse(x, y, 50, 50);
 }
 
